@@ -11,6 +11,7 @@ Each folder in this repository corresponds to a specific assignment, organized l
 Below are the links to the assignments included in this portfolio:
 
 - [Assignment 5.1 - Coupon Acceptance Prediction](coupon-acceptance-predicition/README.md)
+- [Assignment 11.1 - What Drives the Price of a Car?](car-price-drivers/README.md)
 
 Please navigate to the respective folders to view each project in detail, including Jupyter notebooks, data files, and additional resources.
 
